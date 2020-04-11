@@ -1,6 +1,7 @@
 # Magic 8-Ball
 
 Disclaimer: Denial of responsibility
+
 Developer is not responsible for any user decisions based on the results of using the program. Use at your own risk.
 
 # Description
