@@ -1,7 +1,7 @@
-require_relative 'data/answers'
-require_relative 'data/greetings'
+answers = File.readlines("#{__dir__}/data/answers.txt", chomp: true)
+greetings = File.readlines("#{__dir__}/data/greetings.txt", chomp: true)
 
-puts GREETENGS.sample
+puts greetings.sample
 sleep 2
 puts
-puts ANSWERS.sample
+puts answers.sample
