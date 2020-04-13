@@ -3,6 +3,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Magic8ball.jpg" />
 
 Inspired by Interstate 60.
+
 https://en.wikipedia.org/wiki/Magic_8-Ball
 
 # Description
@@ -17,6 +18,6 @@ ruby main.rb
 ```
 and get an answer.
 
-#Disclaimer: Denial of responsibility
+# Disclaimer: Denial of responsibility
 
 Developer is not responsible for any user decisions based on the results of using the program. Use at your own risk.
